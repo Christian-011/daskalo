@@ -1,3 +1,0 @@
-# Daskalo
-
-# Testing git commit
